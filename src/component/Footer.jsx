@@ -58,7 +58,7 @@ function Footer() {
                             <MdOutlineMail className="text-amber-500 text-lg flex-shrink-0" />
                             <div>
                                 <span className="font-semibold text-slate-200">Email :: </span>
-                                <a href="mailto:kevinsimp88@aol.com" className="hover:text-blue-400 transition-colors break-all">kevinsimp88@aol.com</a>
+                                <a href="mailto:Kelvin@andreloonstrabeheer.com" className="hover:text-blue-400 transition-colors break-all">Kelvin@andreloonstrabeheer.com</a>
                             </div>
                         </li>
                     </ul>

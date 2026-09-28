@@ -113,7 +113,7 @@ function Contact() {
                                         Email
                                     </h4>
                                     <p className="text-lg font-semibold text-slate-800 mt-1">
-                                        kevinsimp88@aol.com
+                                        Kelvin@andreloonstrabeheer.com
                                     </p>
                                 </div>
 
